@@ -20,6 +20,6 @@ Este projeto foi criado como um protótipo funcional para a disciplina de Engenh
 
 ## Como Executar
 
-1. Clone este repositório para a sua máquina local.
+1. Clone este repositório para seu computador.
 2. Navegue até o diretório do projeto.
 3. Abra o arquivo `index.html` em seu navegador de preferência.
