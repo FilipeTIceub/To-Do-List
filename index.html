@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List Simples</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Minha Lista de Tarefas</h1>
+        </header>
+        <form id="task-form">
+            <input 
+                type="text" 
+                id="task-input" 
+                placeholder="O que você precisa fazer?"
+                autocomplete="off"
+                aria-label="Nova tarefa"
+            >
+            <button type="submit">Adicionar</button>
+        </form>
+        <main>
+            <ul id="task-list">
+                </ul>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
